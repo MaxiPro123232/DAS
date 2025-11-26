@@ -1,0 +1,17 @@
+C:\Users\maxip\Downloads\TP01\TPDAS\Modelo\obj\Debug\net8.0-windows\Modelo.csproj.AssemblyReference.cache
+C:\Users\maxip\Downloads\TP01\TPDAS\Modelo\obj\Debug\net8.0-windows\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxip\Downloads\TP01\TPDAS\Modelo\obj\Debug\net8.0-windows\Modelo.AssemblyInfoInputs.cache
+C:\Users\maxip\Downloads\TP01\TPDAS\Modelo\obj\Debug\net8.0-windows\Modelo.AssemblyInfo.cs
+C:\Users\maxip\Downloads\TP01\TPDAS\Modelo\obj\Debug\net8.0-windows\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\maxip\Downloads\TP01\TPDAS\Modelo\bin\Debug\net8.0-windows\Modelo.deps.json
+C:\Users\maxip\Downloads\TP01\TPDAS\Modelo\bin\Debug\net8.0-windows\Modelo.runtimeconfig.json
+C:\Users\maxip\Downloads\TP01\TPDAS\Modelo\bin\Debug\net8.0-windows\Modelo.dll
+C:\Users\maxip\Downloads\TP01\TPDAS\Modelo\bin\Debug\net8.0-windows\Modelo.pdb
+C:\Users\maxip\Downloads\TP01\TPDAS\Modelo\bin\Debug\net8.0-windows\Entidades.dll
+C:\Users\maxip\Downloads\TP01\TPDAS\Modelo\bin\Debug\net8.0-windows\Entidades.pdb
+C:\Users\maxip\Downloads\TP01\TPDAS\Modelo\obj\Debug\net8.0-windows\Modelo.csproj.Up2Date
+C:\Users\maxip\Downloads\TP01\TPDAS\Modelo\obj\Debug\net8.0-windows\Modelo.dll
+C:\Users\maxip\Downloads\TP01\TPDAS\Modelo\obj\Debug\net8.0-windows\refint\Modelo.dll
+C:\Users\maxip\Downloads\TP01\TPDAS\Modelo\obj\Debug\net8.0-windows\Modelo.pdb
+C:\Users\maxip\Downloads\TP01\TPDAS\Modelo\obj\Debug\net8.0-windows\Modelo.genruntimeconfig.cache
+C:\Users\maxip\Downloads\TP01\TPDAS\Modelo\obj\Debug\net8.0-windows\ref\Modelo.dll
